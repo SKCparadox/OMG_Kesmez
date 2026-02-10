@@ -20,6 +20,7 @@ namespace OMG_Kesmez
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new View());
+            //Hallo Ömer
         }
     }
 }
